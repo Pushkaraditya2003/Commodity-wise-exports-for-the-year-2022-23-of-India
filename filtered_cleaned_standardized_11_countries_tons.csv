@@ -1,0 +1,1054 @@
+PRINCIPLE COMMODITY,COUNTRY,UNIT,QUANTITY,VALUE(US$ MILLION)
+TEA                                               ,BRAZIL,TONS,3.116,0.11
+TEA                                               ,CANADA,TONS,2820.125,15.28
+TEA                                               ,CHINA,TONS,5380.263,12.6
+TEA                                               ,FRANCE,TONS,329.473,2.63
+TEA                                               ,GERMANY,TONS,8521.75,35.34
+TEA                                               ,ITALY,TONS,1580.455,10.7
+TEA                                               ,JAPAN,TONS,3076.756,20.51
+TEA                                               ,SOUTH KOREA,TONS,312.74,4.04
+TEA                                               ,RUSSIA,TONS,45065.478,91.72
+TEA                                               ,UK,TONS,11897.809,44.26
+TEA                                               ,USA,TONS,13834.059,71.14
+COFFEE                                            ,BRAZIL,TONS,10.175,0.5
+COFFEE                                            ,CANADA,TONS,969.435,3.72
+COFFEE                                            ,CHINA,TONS,290.715,1.67
+COFFEE                                            ,FRANCE,TONS,2301.631,8.62
+COFFEE                                            ,GERMANY,TONS,41147.978,122.5
+COFFEE                                            ,ITALY,TONS,58038.764,148.76
+COFFEE                                            ,JAPAN,TONS,488.383,3.99
+COFFEE                                            ,SOUTH KOREA,TONS,5382.501,16.72
+COFFEE                                            ,RUSSIA,TONS,16632.003,104.71
+COFFEE                                            ,UK,TONS,3406.481,20.12
+COFFEE                                            ,USA,TONS,6380.694,60.7
+RICE BASMOTI                                      ,BRAZIL,TONS,34.0,0.03
+RICE BASMOTI                                      ,CANADA,TONS,63288.0,74.4
+RICE BASMOTI                                      ,CHINA,TONS,1131.0,1.28
+RICE BASMOTI                                      ,FRANCE,TONS,7571.0,8.81
+RICE BASMOTI                                      ,GERMANY,TONS,9677.0,12.76
+RICE BASMOTI                                      ,ITALY,TONS,26388.0,29.31
+RICE BASMOTI                                      ,JAPAN,TONS,1941.0,2.51
+RICE BASMOTI                                      ,SOUTH KOREA,TONS,812.0,0.87
+RICE BASMOTI                                      ,RUSSIA,TONS,11382.0,12.44
+RICE BASMOTI                                      ,UK,TONS,143685.0,137.26
+RICE BASMOTI                                      ,USA,TONS,204027.0,239.32
+RICE(OTHER THAN BASMOTI)                          ,BRAZIL,TONS,12.0,0.01
+RICE(OTHER THAN BASMOTI)                          ,CANADA,TONS,11135.0,8.34
+RICE(OTHER THAN BASMOTI)                          ,CHINA,TONS,1504201.0,494.96
+RICE(OTHER THAN BASMOTI)                          ,FRANCE,TONS,1367.0,0.99
+RICE(OTHER THAN BASMOTI)                          ,GERMANY,TONS,2539.0,1.98
+RICE(OTHER THAN BASMOTI)                          ,ITALY,TONS,4611.0,2.87
+RICE(OTHER THAN BASMOTI)                          ,JAPAN,TONS,173.0,0.16
+RICE(OTHER THAN BASMOTI)                          ,SOUTH KOREA,TONS,138.0,0.14
+RICE(OTHER THAN BASMOTI)                          ,RUSSIA,TONS,124979.0,48.9
+RICE(OTHER THAN BASMOTI)                          ,UK,TONS,28230.0,18.14
+RICE(OTHER THAN BASMOTI)                          ,USA,TONS,53171.0,40.67
+OTHER CEREALS                                     ,BRAZIL,TONS,8.0,0.03
+OTHER CEREALS                                     ,CANADA,TONS,956.0,0.9
+OTHER CEREALS                                     ,CHINA,TONS,106.0,0.04
+OTHER CEREALS                                     ,FRANCE,TONS,97.0,0.06
+OTHER CEREALS                                     ,GERMANY,TONS,2011.0,2.88
+OTHER CEREALS                                     ,ITALY,TONS,958.0,1.11
+OTHER CEREALS                                     ,JAPAN,TONS,12146.0,5.71
+OTHER CEREALS                                     ,SOUTH KOREA,TONS,1302.0,0.68
+OTHER CEREALS                                     ,RUSSIA,TONS,400.0,0.63
+OTHER CEREALS                                     ,UK,TONS,2275.0,1.33
+OTHER CEREALS                                     ,USA,TONS,2174.0,3.25
+TOBACCO UNMANUFACTURED                            ,BRAZIL,TONS,620.624,1.55
+TOBACCO UNMANUFACTURED                            ,CANADA,TONS,224.73,1.03
+TOBACCO UNMANUFACTURED                            ,CHINA,TONS,5.184,0.01
+TOBACCO UNMANUFACTURED                            ,FRANCE,TONS,6613.5,24.34
+TOBACCO UNMANUFACTURED                            ,GERMANY,TONS,3684.627,11.32
+TOBACCO UNMANUFACTURED                            ,ITALY,TONS,1214.34,2.72
+TOBACCO UNMANUFACTURED                            ,JAPAN,TONS,0.0,0.0
+TOBACCO UNMANUFACTURED                            ,SOUTH KOREA,TONS,9628.26,37.23
+TOBACCO UNMANUFACTURED                            ,RUSSIA,TONS,18422.767,68.73
+TOBACCO UNMANUFACTURED                            ,UK,TONS,49.955,0.35
+TOBACCO UNMANUFACTURED                            ,USA,TONS,7943.674,12.16
+SPICES                                            ,BRAZIL,TONS,12970.419,34.12
+SPICES                                            ,CANADA,TONS,11425.796,50.66
+SPICES                                            ,CHINA,TONS,256797.999,793.41
+SPICES                                            ,FRANCE,TONS,4300.807,40.18
+SPICES                                            ,GERMANY,TONS,14308.166,89.33
+SPICES                                            ,ITALY,TONS,3571.615,15.56
+SPICES                                            ,JAPAN,TONS,10497.879,46.04
+SPICES                                            ,SOUTH KOREA,TONS,3856.011,39.9
+SPICES                                            ,RUSSIA,TONS,8951.253,24.52
+SPICES                                            ,UK,TONS,25165.444,98.97
+SPICES                                            ,USA,TONS,82205.726,523.28
+CASHEW                                            ,CANADA,TONS,17.0,0.14
+CASHEW                                            ,CHINA,TONS,0.0,0.0
+CASHEW                                            ,FRANCE,TONS,0.0,0.01
+CASHEW                                            ,GERMANY,TONS,977.0,8.17
+CASHEW                                            ,ITALY,TONS,62.0,0.32
+CASHEW                                            ,JAPAN,TONS,4609.0,35.99
+CASHEW                                            ,SOUTH KOREA,TONS,146.0,1.12
+CASHEW                                            ,RUSSIA,TONS,0.0,0.0
+CASHEW                                            ,UK,TONS,255.0,2.29
+CASHEW                                            ,USA,TONS,1048.0,8.1
+OIL MEALS                                         ,BRAZIL,TONS,72.0,0.04
+OIL MEALS                                         ,CANADA,TONS,8931.0,8.18
+OIL MEALS                                         ,CHINA,TONS,40471.0,21.76
+OIL MEALS                                         ,FRANCE,TONS,13343.0,10.22
+OIL MEALS                                         ,GERMANY,TONS,16425.0,9.47
+OIL MEALS                                         ,ITALY,TONS,602.0,0.22
+OIL MEALS                                         ,JAPAN,TONS,98398.0,59.41
+OIL MEALS                                         ,SOUTH KOREA,TONS,782818.0,220.4
+OIL MEALS                                         ,RUSSIA,TONS,297.0,0.23
+OIL MEALS                                         ,UK,TONS,8581.0,7.57
+OIL MEALS                                         ,USA,TONS,91219.0,97.35
+GROUNDNUT                                         ,CANADA,TONS,220.0,0.37
+GROUNDNUT                                         ,CHINA,TONS,11276.0,13.65
+GROUNDNUT                                         ,FRANCE,TONS,0.0,0.0
+GROUNDNUT                                         ,GERMANY,TONS,0.0,0.0
+GROUNDNUT                                         ,ITALY,TONS,0.0,0.0
+GROUNDNUT                                         ,JAPAN,TONS,43.0,0.06
+GROUNDNUT                                         ,SOUTH KOREA,TONS,0.0,0.0
+GROUNDNUT                                         ,RUSSIA,TONS,8664.0,11.56
+GROUNDNUT                                         ,UK,TONS,45.0,0.05
+GROUNDNUT                                         ,USA,TONS,3.0,0.01
+NIGER SEEDS                                       ,BRAZIL,TONS,0.0,0.0
+NIGER SEEDS                                       ,CANADA,TONS,167.908,0.23
+NIGER SEEDS                                       ,FRANCE,TONS,0.0,0.0
+NIGER SEEDS                                       ,GERMANY,TONS,0.037,0.0
+NIGER SEEDS                                       ,ITALY,TONS,0.0,0.0
+NIGER SEEDS                                       ,JAPAN,TONS,24.0,0.03
+NIGER SEEDS                                       ,SOUTH KOREA,TONS,0.0,0.0
+NIGER SEEDS                                       ,RUSSIA,TONS,25.0,0.03
+NIGER SEEDS                                       ,UK,TONS,254.0,0.31
+NIGER SEEDS                                       ,USA,TONS,5924.725,8.02
+OTHER OIL SEEDS                                   ,CANADA,TONS,28498.0,28.22
+OTHER OIL SEEDS                                   ,CHINA,TONS,1.0,0.0
+OTHER OIL SEEDS                                   ,FRANCE,TONS,32.0,0.04
+OTHER OIL SEEDS                                   ,GERMANY,TONS,2919.0,4.76
+OTHER OIL SEEDS                                   ,ITALY,TONS,56.0,0.08
+OTHER OIL SEEDS                                   ,JAPAN,TONS,141.0,0.14
+OTHER OIL SEEDS                                   ,SOUTH KOREA,TONS,78.0,0.08
+OTHER OIL SEEDS                                   ,RUSSIA,TONS,327.0,1.03
+OTHER OIL SEEDS                                   ,UK,TONS,313.0,0.48
+OTHER OIL SEEDS                                   ,USA,TONS,6559.0,10.6
+SESAME SEEDS                                      ,BRAZIL,TONS,427.239,0.83
+SESAME SEEDS                                      ,CANADA,TONS,5975.828,12.74
+SESAME SEEDS                                      ,CHINA,TONS,14505.931,23.62
+SESAME SEEDS                                      ,FRANCE,TONS,1412.15,2.97
+SESAME SEEDS                                      ,GERMANY,TONS,2965.04,6.01
+SESAME SEEDS                                      ,ITALY,TONS,810.73,1.63
+SESAME SEEDS                                      ,JAPAN,TONS,3.27,0.02
+SESAME SEEDS                                      ,SOUTH KOREA,TONS,37926.77,64.3
+SESAME SEEDS                                      ,RUSSIA,TONS,15817.483,30.86
+SESAME SEEDS                                      ,UK,TONS,2514.81,5.41
+SESAME SEEDS                                      ,USA,TONS,16232.63,35.42
+FRESH FRUITS                                      ,BRAZIL,TONS,3000.0,2.83
+FRESH FRUITS                                      ,CANADA,TONS,1883.0,5.01
+FRESH FRUITS                                      ,CHINA,TONS,3202.0,6.37
+FRESH FRUITS                                      ,FRANCE,TONS,544.0,1.35
+FRESH FRUITS                                      ,GERMANY,TONS,10358.0,15.69
+FRESH FRUITS                                      ,ITALY,TONS,604.0,0.82
+FRESH FRUITS                                      ,JAPAN,TONS,123.0,0.39
+FRESH FRUITS                                      ,SOUTH KOREA,TONS,11.0,0.05
+FRESH FRUITS                                      ,RUSSIA,TONS,12828.0,18.54
+FRESH FRUITS                                      ,UK,TONS,21387.0,38.84
+FRESH FRUITS                                      ,USA,TONS,6171.0,21.86
+FRESH VEGETABLES                                  ,BRAZIL,TONS,0.0,0.0
+FRESH VEGETABLES                                  ,CANADA,TONS,6401.0,10.15
+FRESH VEGETABLES                                  ,CHINA,TONS,203.0,0.08
+FRESH VEGETABLES                                  ,FRANCE,TONS,1050.0,1.51
+FRESH VEGETABLES                                  ,GERMANY,TONS,2344.0,2.61
+FRESH VEGETABLES                                  ,ITALY,TONS,3213.0,1.45
+FRESH VEGETABLES                                  ,JAPAN,TONS,1469.0,1.66
+FRESH VEGETABLES                                  ,SOUTH KOREA,TONS,55.0,0.03
+FRESH VEGETABLES                                  ,RUSSIA,TONS,9201.0,10.72
+FRESH VEGETABLES                                  ,UK,TONS,20086.0,29.45
+FRESH VEGETABLES                                  ,USA,TONS,9420.0,16.76
+PROCESSED FRUITS AND JUICES                       ,BRAZIL,TONS,293.563,0.35
+PROCESSED FRUITS AND JUICES                       ,CANADA,TONS,20618.373,29.36
+PROCESSED FRUITS AND JUICES                       ,CHINA,TONS,8339.462,12.12
+PROCESSED FRUITS AND JUICES                       ,FRANCE,TONS,17896.718,29.53
+PROCESSED FRUITS AND JUICES                       ,GERMANY,TONS,23605.231,31.16
+PROCESSED FRUITS AND JUICES                       ,ITALY,TONS,3927.2,6.01
+PROCESSED FRUITS AND JUICES                       ,JAPAN,TONS,7147.803,13.37
+PROCESSED FRUITS AND JUICES                       ,SOUTH KOREA,TONS,3343.719,5.2
+PROCESSED FRUITS AND JUICES                       ,RUSSIA,TONS,20101.134,32.51
+PROCESSED FRUITS AND JUICES                       ,UK,TONS,38437.29,54.51
+PROCESSED FRUITS AND JUICES                       ,USA,TONS,78887.725,131.99
+PROCESSED VEGETABLES                              ,BRAZIL,TONS,11811.837,18.91
+PROCESSED VEGETABLES                              ,CANADA,TONS,5438.034,13.13
+PROCESSED VEGETABLES                              ,CHINA,TONS,2200.966,1.26
+PROCESSED VEGETABLES                              ,FRANCE,TONS,13982.149,16.96
+PROCESSED VEGETABLES                              ,GERMANY,TONS,12162.86,26.85
+PROCESSED VEGETABLES                              ,ITALY,TONS,4210.97,4.36
+PROCESSED VEGETABLES                              ,JAPAN,TONS,2693.052,2.18
+PROCESSED VEGETABLES                              ,SOUTH KOREA,TONS,3112.722,2.4
+PROCESSED VEGETABLES                              ,RUSSIA,TONS,26880.531,25.6
+PROCESSED VEGETABLES                              ,UK,TONS,14365.701,29.4
+PROCESSED VEGETABLES                              ,USA,TONS,47757.657,89.24
+CEREAL PREPARATIONS                               ,BRAZIL,TONS,77.0,0.33
+CEREAL PREPARATIONS                               ,CANADA,TONS,16389.0,34.72
+CEREAL PREPARATIONS                               ,CHINA,TONS,1266.0,1.86
+CEREAL PREPARATIONS                               ,FRANCE,TONS,269.0,0.69
+CEREAL PREPARATIONS                               ,GERMANY,TONS,1057.0,2.77
+CEREAL PREPARATIONS                               ,ITALY,TONS,832.0,1.74
+CEREAL PREPARATIONS                               ,JAPAN,TONS,5437.0,3.52
+CEREAL PREPARATIONS                               ,SOUTH KOREA,TONS,12622.0,8.53
+CEREAL PREPARATIONS                               ,RUSSIA,TONS,433.0,0.45
+CEREAL PREPARATIONS                               ,UK,TONS,15402.0,35.93
+CEREAL PREPARATIONS                               ,USA,TONS,54869.0,125.41
+COCOA PRODUCTS                                    ,BRAZIL,TONS,1049.189,10.3
+COCOA PRODUCTS                                    ,CANADA,TONS,25.392,0.19
+COCOA PRODUCTS                                    ,CHINA,TONS,64.18,0.39
+COCOA PRODUCTS                                    ,FRANCE,TONS,3.613,0.03
+COCOA PRODUCTS                                    ,GERMANY,TONS,5.73,0.07
+COCOA PRODUCTS                                    ,ITALY,TONS,7.344,0.06
+COCOA PRODUCTS                                    ,JAPAN,TONS,9.877,0.05
+COCOA PRODUCTS                                    ,SOUTH KOREA,TONS,0.0,0.0
+COCOA PRODUCTS                                    ,RUSSIA,TONS,1.0,0.02
+COCOA PRODUCTS                                    ,UK,TONS,415.11,1.34
+COCOA PRODUCTS                                    ,USA,TONS,8636.009,32.07
+MILLED PRODUCTS                                   ,BRAZIL,TONS,1.25,0.01
+MILLED PRODUCTS                                   ,CANADA,TONS,11055.757,7.94
+MILLED PRODUCTS                                   ,CHINA,TONS,2.2,0.01
+MILLED PRODUCTS                                   ,FRANCE,TONS,408.786,0.33
+MILLED PRODUCTS                                   ,GERMANY,TONS,2050.806,1.57
+MILLED PRODUCTS                                   ,ITALY,TONS,1080.731,0.77
+MILLED PRODUCTS                                   ,JAPAN,TONS,233.252,0.18
+MILLED PRODUCTS                                   ,SOUTH KOREA,TONS,13138.41,5.81
+MILLED PRODUCTS                                   ,RUSSIA,TONS,0.407,0.0
+MILLED PRODUCTS                                   ,UK,TONS,10486.276,7.29
+MILLED PRODUCTS                                   ,USA,TONS,33828.017,32.72
+MARINE PRODUCTS                                   ,BRAZIL,TONS,22.549,0.12
+MARINE PRODUCTS                                   ,CANADA,TONS,22114.37,187.11
+MARINE PRODUCTS                                   ,CHINA,TONS,405643.704,1445.56
+MARINE PRODUCTS                                   ,FRANCE,TONS,15593.062,110.08
+MARINE PRODUCTS                                   ,GERMANY,TONS,8740.495,65.17
+MARINE PRODUCTS                                   ,ITALY,TONS,31207.715,179.32
+MARINE PRODUCTS                                   ,JAPAN,TONS,112622.567,486.66
+MARINE PRODUCTS                                   ,SOUTH KOREA,TONS,14775.149,55.09
+MARINE PRODUCTS                                   ,RUSSIA,TONS,18973.589,147.7
+MARINE PRODUCTS                                   ,UK,TONS,19246.993,144.99
+MARINE PRODUCTS                                   ,USA,TONS,303065.435,2582.65
+ANIMAL CASINGS                                    ,GERMANY,TONS,1.461,0.01
+ANIMAL CASINGS                                    ,ITALY,TONS,49.077,0.4
+BUFFALO MEAT                                      ,SOUTH KOREA,TONS,479.0,1.26
+BUFFALO MEAT                                      ,RUSSIA,TONS,7044.0,26.8
+BUFFALO MEAT                                      ,USA,TONS,250.0,0.26
+DAIRY PRODUCTS                                    ,CANADA,TONS,842.587,4.41
+DAIRY PRODUCTS                                    ,CHINA,TONS,45.0,0.38
+DAIRY PRODUCTS                                    ,FRANCE,TONS,6.074,0.05
+DAIRY PRODUCTS                                    ,GERMANY,TONS,725.683,6.21
+DAIRY PRODUCTS                                    ,ITALY,TONS,0.221,0.0
+DAIRY PRODUCTS                                    ,JAPAN,TONS,232.257,1.12
+DAIRY PRODUCTS                                    ,SOUTH KOREA,TONS,158.159,1.79
+DAIRY PRODUCTS                                    ,RUSSIA,TONS,0.032,0.0
+DAIRY PRODUCTS                                    ,UK,TONS,59.461,0.46
+DAIRY PRODUCTS                                    ,USA,TONS,71250.874,240.6
+OTHER MEAT                                        ,USA,TONS,0.0,0.0
+PROCESSED MEAT                                    ,CANADA,TONS,1.0,0.0
+PROCESSED MEAT                                    ,GERMANY,TONS,0.0,0.0
+PROCESSED MEAT                                    ,USA,TONS,0.0,0.0
+IRON ORE                                          ,BRAZIL,TONS,118617.0,21.22
+IRON ORE                                          ,CANADA,TONS,0.0,0.0
+IRON ORE                                          ,CHINA,TONS,18285429.0,1396.83
+IRON ORE                                          ,FRANCE,TONS,0.0,0.0
+IRON ORE                                          ,GERMANY,TONS,159460.0,35.39
+IRON ORE                                          ,ITALY,TONS,131125.0,23.12
+IRON ORE                                          ,JAPAN,TONS,0.0,0.0
+IRON ORE                                          ,SOUTH KOREA,TONS,69300.0,13.17
+IRON ORE                                          ,UK,TONS,125139.0,19.39
+IRON ORE                                          ,USA,TONS,3.0,0.0
+BULK MINERALS AND ORES                            ,BRAZIL,TONS,28.101,0.01
+BULK MINERALS AND ORES                            ,CANADA,TONS,817.064,0.53
+BULK MINERALS AND ORES                            ,CHINA,TONS,6569304.989,195.6
+BULK MINERALS AND ORES                            ,FRANCE,TONS,439.431,0.12
+BULK MINERALS AND ORES                            ,GERMANY,TONS,300.632,0.42
+BULK MINERALS AND ORES                            ,ITALY,TONS,226.777,0.05
+BULK MINERALS AND ORES                            ,JAPAN,TONS,1290575.903,23.94
+BULK MINERALS AND ORES                            ,SOUTH KOREA,TONS,1955788.447,41.87
+BULK MINERALS AND ORES                            ,RUSSIA,TONS,113.704,0.13
+BULK MINERALS AND ORES                            ,UK,TONS,6140.803,1.7
+BULK MINERALS AND ORES                            ,USA,TONS,3032.545,2.37
+"COAL,COKE AND BRIQUITTES ETC                      ",BRAZIL,TONS,93000.0,58.68
+"COAL,COKE AND BRIQUITTES ETC                      ",CANADA,TONS,0.0,0.0
+"COAL,COKE AND BRIQUITTES ETC                      ",CHINA,TONS,0.0,0.0
+"COAL,COKE AND BRIQUITTES ETC                      ",FRANCE,TONS,0.0,0.0
+"COAL,COKE AND BRIQUITTES ETC                      ",GERMANY,TONS,1000.0,1.1
+"COAL,COKE AND BRIQUITTES ETC                      ",ITALY,TONS,0.0,0.0
+"COAL,COKE AND BRIQUITTES ETC                      ",JAPAN,TONS,49500.0,35.45
+"COAL,COKE AND BRIQUITTES ETC                      ",SOUTH KOREA,TONS,0.0,0.0
+"COAL,COKE AND BRIQUITTES ETC                      ",RUSSIA,TONS,0.0,0.0
+"COAL,COKE AND BRIQUITTES ETC                      ",UK,TONS,0.0,0.0
+"COAL,COKE AND BRIQUITTES ETC                      ",USA,TONS,45.0,0.03
+"GRANIT, NATRL STONE AND PRODCT                    ",BRAZIL,TONS,1792.352,0.87
+"GRANIT, NATRL STONE AND PRODCT                    ",CANADA,TONS,64853.548,37.25
+"GRANIT, NATRL STONE AND PRODCT                    ",CHINA,TONS,3489603.806,388.02
+"GRANIT, NATRL STONE AND PRODCT                    ",FRANCE,TONS,127535.362,44.26
+"GRANIT, NATRL STONE AND PRODCT                    ",GERMANY,TONS,82644.09,56.61
+"GRANIT, NATRL STONE AND PRODCT                    ",ITALY,TONS,153613.729,44.44
+"GRANIT, NATRL STONE AND PRODCT                    ",JAPAN,TONS,13374.253,6.71
+"GRANIT, NATRL STONE AND PRODCT                    ",SOUTH KOREA,TONS,19189.285,8.26
+"GRANIT, NATRL STONE AND PRODCT                    ",RUSSIA,TONS,29474.549,14.7
+"GRANIT, NATRL STONE AND PRODCT                    ",UK,TONS,382184.765,108.72
+"GRANIT, NATRL STONE AND PRODCT                    ",USA,TONS,709296.405,382.84
+MICA                                              ,BRAZIL,TONS,90.605,0.08
+MICA                                              ,CHINA,TONS,68973.651,33.47
+MICA                                              ,FRANCE,TONS,1377.77,0.98
+MICA                                              ,GERMANY,TONS,2050.987,0.79
+MICA                                              ,ITALY,TONS,48.25,0.17
+MICA                                              ,JAPAN,TONS,9579.904,5.88
+MICA                                              ,SOUTH KOREA,TONS,769.507,0.48
+MICA                                              ,RUSSIA,TONS,1087.55,1.23
+MICA                                              ,UK,TONS,6.392,0.02
+MICA                                              ,USA,TONS,2214.566,2.01
+OTHER CRUDE MINERALS                              ,BRAZIL,TONS,315.408,0.53
+OTHER CRUDE MINERALS                              ,CANADA,TONS,572.989,0.13
+OTHER CRUDE MINERALS                              ,CHINA,TONS,11850.784,2.09
+OTHER CRUDE MINERALS                              ,FRANCE,TONS,155.299,0.17
+OTHER CRUDE MINERALS                              ,GERMANY,TONS,657.249,0.21
+OTHER CRUDE MINERALS                              ,ITALY,TONS,3017.285,1.04
+OTHER CRUDE MINERALS                              ,JAPAN,TONS,1975.473,0.62
+OTHER CRUDE MINERALS                              ,SOUTH KOREA,TONS,2399.762,0.45
+OTHER CRUDE MINERALS                              ,RUSSIA,TONS,724.608,1.71
+OTHER CRUDE MINERALS                              ,UK,TONS,1387.332,0.36
+OTHER CRUDE MINERALS                              ,USA,TONS,6850.472,1.86
+PROCESSED MINERALS                                ,BRAZIL,TONS,1323.18,0.34
+PROCESSED MINERALS                                ,CANADA,TONS,35496.04,6.02
+PROCESSED MINERALS                                ,CHINA,TONS,424597.911,73.84
+PROCESSED MINERALS                                ,FRANCE,TONS,3352.247,1.5
+PROCESSED MINERALS                                ,GERMANY,TONS,2992.032,1.62
+PROCESSED MINERALS                                ,ITALY,TONS,475612.26,41.52
+PROCESSED MINERALS                                ,JAPAN,TONS,62702.3,19.95
+PROCESSED MINERALS                                ,SOUTH KOREA,TONS,197014.549,28.12
+PROCESSED MINERALS                                ,RUSSIA,TONS,291594.208,102.52
+PROCESSED MINERALS                                ,UK,TONS,248317.619,90.81
+PROCESSED MINERALS                                ,USA,TONS,1578794.964,140.22
+"SULPHER, UNROASTED IRON PYRITE                    ",BRAZIL,TONS,146.0,0.18
+"SULPHER, UNROASTED IRON PYRITE                    ",CANADA,TONS,0.0,0.0
+"SULPHER, UNROASTED IRON PYRITE                    ",CHINA,TONS,1224865.0,333.44
+"SULPHER, UNROASTED IRON PYRITE                    ",FRANCE,TONS,0.0,0.0
+"SULPHER, UNROASTED IRON PYRITE                    ",GERMANY,TONS,0.0,0.0
+"SULPHER, UNROASTED IRON PYRITE                    ",ITALY,TONS,15.0,0.02
+"SULPHER, UNROASTED IRON PYRITE                    ",JAPAN,TONS,0.0,0.0
+"SULPHER, UNROASTED IRON PYRITE                    ",SOUTH KOREA,TONS,40.0,0.02
+"SULPHER, UNROASTED IRON PYRITE                    ",RUSSIA,TONS,0.0,0.0
+"SULPHER, UNROASTED IRON PYRITE                    ",UK,TONS,101.0,0.08
+"SULPHER, UNROASTED IRON PYRITE                    ",USA,TONS,19.0,0.01
+FINISHED LEATHER                                  ,BRAZIL,TONS,15.897,0.56
+FINISHED LEATHER                                  ,CANADA,TONS,148.872,1.59
+FINISHED LEATHER                                  ,CHINA,TONS,5982.416,42.58
+FINISHED LEATHER                                  ,FRANCE,TONS,339.842,6.33
+FINISHED LEATHER                                  ,GERMANY,TONS,662.295,10.84
+FINISHED LEATHER                                  ,ITALY,TONS,7724.215,77.22
+FINISHED LEATHER                                  ,JAPAN,TONS,123.537,2.91
+FINISHED LEATHER                                  ,SOUTH KOREA,TONS,994.084,17.17
+FINISHED LEATHER                                  ,RUSSIA,TONS,2417.665,12.35
+FINISHED LEATHER                                  ,UK,TONS,74.535,0.68
+FINISHED LEATHER                                  ,USA,TONS,554.387,7.46
+LEATHER FOOTWEAR COMPONENT                        ,BRAZIL,TONS,0.019,0.0
+LEATHER FOOTWEAR COMPONENT                        ,CANADA,TONS,8.324,0.28
+LEATHER FOOTWEAR COMPONENT                        ,CHINA,TONS,80.2,1.27
+LEATHER FOOTWEAR COMPONENT                        ,FRANCE,TONS,263.567,11.33
+LEATHER FOOTWEAR COMPONENT                        ,GERMANY,TONS,1486.109,67.87
+LEATHER FOOTWEAR COMPONENT                        ,ITALY,TONS,646.824,9.3
+LEATHER FOOTWEAR COMPONENT                        ,JAPAN,TONS,206.624,3.94
+LEATHER FOOTWEAR COMPONENT                        ,SOUTH KOREA,TONS,0.545,0.03
+LEATHER FOOTWEAR COMPONENT                        ,RUSSIA,TONS,1480.936,18.74
+LEATHER FOOTWEAR COMPONENT                        ,UK,TONS,292.189,15.24
+LEATHER FOOTWEAR COMPONENT                        ,USA,TONS,95.847,3.22
+LEATHER GARMENTS                                  ,BRAZIL,TONS,7.99,0.87
+LEATHER GARMENTS                                  ,CANADA,TONS,105.686,7.16
+LEATHER GARMENTS                                  ,CHINA,TONS,7.811,0.5
+LEATHER GARMENTS                                  ,FRANCE,TONS,406.805,30.18
+LEATHER GARMENTS                                  ,GERMANY,TONS,845.294,48.34
+LEATHER GARMENTS                                  ,ITALY,TONS,506.494,38.87
+LEATHER GARMENTS                                  ,JAPAN,TONS,16.502,1.81
+LEATHER GARMENTS                                  ,SOUTH KOREA,TONS,19.759,1.48
+LEATHER GARMENTS                                  ,RUSSIA,TONS,184.943,9.01
+LEATHER GARMENTS                                  ,UK,TONS,385.019,25.76
+LEATHER GARMENTS                                  ,USA,TONS,847.408,74.09
+GOLD                                              ,CANADA,TONS,0.0,0.0
+GOLD                                              ,CHINA,TONS,0.0,0.02
+GOLD                                              ,ITALY,TONS,0.0,0.0
+GOLD                                              ,USA,TONS,0.001,0.08
+GOLD AND OTH PRECS METL JWLERY                    ,BRAZIL,TONS,2213.456,0.61
+GOLD AND OTH PRECS METL JWLERY                    ,CANADA,TONS,31118.146,138.79
+GOLD AND OTH PRECS METL JWLERY                    ,CHINA,TONS,1175.743,1.01
+GOLD AND OTH PRECS METL JWLERY                    ,FRANCE,TONS,16573.976,183.54
+GOLD AND OTH PRECS METL JWLERY                    ,GERMANY,TONS,23347.905,62.51
+GOLD AND OTH PRECS METL JWLERY                    ,ITALY,TONS,14985.38,84.64
+GOLD AND OTH PRECS METL JWLERY                    ,JAPAN,TONS,5922.377,24.6
+GOLD AND OTH PRECS METL JWLERY                    ,SOUTH KOREA,TONS,290.908,1.13
+GOLD AND OTH PRECS METL JWLERY                    ,RUSSIA,TONS,1912.764,8.34
+GOLD AND OTH PRECS METL JWLERY                    ,UK,TONS,78708.737,379.52
+GOLD AND OTH PRECS METL JWLERY                    ,USA,TONS,655735.056,3323.51
+OTHER PRECIOUS AND BASE METALS                    ,CANADA,TONS,34.954,0.0
+OTHER PRECIOUS AND BASE METALS                    ,CHINA,TONS,7.54,0.0
+OTHER PRECIOUS AND BASE METALS                    ,FRANCE,TONS,95235.98,5.38
+OTHER PRECIOUS AND BASE METALS                    ,GERMANY,TONS,37589.26,1.86
+OTHER PRECIOUS AND BASE METALS                    ,ITALY,TONS,104.847,5.14
+OTHER PRECIOUS AND BASE METALS                    ,JAPAN,TONS,1507053.117,45.94
+OTHER PRECIOUS AND BASE METALS                    ,SOUTH KOREA,TONS,663927.9,53.7
+OTHER PRECIOUS AND BASE METALS                    ,RUSSIA,TONS,0.0,0.0
+OTHER PRECIOUS AND BASE METALS                    ,UK,TONS,6861.194,3.99
+OTHER PRECIOUS AND BASE METALS                    ,USA,TONS,92578.549,6.75
+SILVER                                            ,BRAZIL,TONS,0.03,0.01
+SILVER                                            ,CANADA,TONS,2.995,0.88
+SILVER                                            ,CHINA,TONS,0.0,0.0
+SILVER                                            ,FRANCE,TONS,0.584,0.12
+SILVER                                            ,GERMANY,TONS,8.602,2.0
+SILVER                                            ,ITALY,TONS,2.482,0.72
+SILVER                                            ,SOUTH KOREA,TONS,0.0,0.0
+SILVER                                            ,UK,TONS,80.733,55.37
+SILVER                                            ,USA,TONS,20.595,5.78
+AYUSH AND HERBAL PRODUCTS                         ,BRAZIL,TONS,1056.918,3.92
+AYUSH AND HERBAL PRODUCTS                         ,CANADA,TONS,1193.39,8.18
+AYUSH AND HERBAL PRODUCTS                         ,CHINA,TONS,15026.297,26.91
+AYUSH AND HERBAL PRODUCTS                         ,FRANCE,TONS,3118.055,19.6
+AYUSH AND HERBAL PRODUCTS                         ,GERMANY,TONS,9728.001,57.62
+AYUSH AND HERBAL PRODUCTS                         ,ITALY,TONS,2968.14,28.46
+AYUSH AND HERBAL PRODUCTS                         ,JAPAN,TONS,1004.551,4.87
+AYUSH AND HERBAL PRODUCTS                         ,SOUTH KOREA,TONS,1472.399,10.98
+AYUSH AND HERBAL PRODUCTS                         ,RUSSIA,TONS,2856.195,16.48
+AYUSH AND HERBAL PRODUCTS                         ,UK,TONS,2241.537,16.63
+AYUSH AND HERBAL PRODUCTS                         ,USA,TONS,23197.826,171.78
+"BULK DRUGS, DRUG INTERMEDIATES                    ",BRAZIL,TONS,10657.39,227.58
+"BULK DRUGS, DRUG INTERMEDIATES                    ",CANADA,TONS,2291.227,65.15
+"BULK DRUGS, DRUG INTERMEDIATES                    ",CHINA,TONS,8481.859,257.5
+"BULK DRUGS, DRUG INTERMEDIATES                    ",FRANCE,TONS,3265.705,105.52
+"BULK DRUGS, DRUG INTERMEDIATES                    ",GERMANY,TONS,8338.684,160.93
+"BULK DRUGS, DRUG INTERMEDIATES                    ",ITALY,TONS,4647.235,92.19
+"BULK DRUGS, DRUG INTERMEDIATES                    ",JAPAN,TONS,2556.965,138.93
+"BULK DRUGS, DRUG INTERMEDIATES                    ",SOUTH KOREA,TONS,3499.911,126.29
+"BULK DRUGS, DRUG INTERMEDIATES                    ",RUSSIA,TONS,4532.56,127.84
+"BULK DRUGS, DRUG INTERMEDIATES                    ",UK,TONS,4245.139,85.7
+"BULK DRUGS, DRUG INTERMEDIATES                    ",USA,TONS,48497.094,517.67
+"DRUG FORMULATIONS, BIOLOGICALS                    ",BRAZIL,TONS,5501.941,386.36
+"DRUG FORMULATIONS, BIOLOGICALS                    ",CANADA,TONS,6008.842,431.8
+"DRUG FORMULATIONS, BIOLOGICALS                    ",CHINA,TONS,985.031,51.83
+"DRUG FORMULATIONS, BIOLOGICALS                    ",FRANCE,TONS,17468.74,435.89
+"DRUG FORMULATIONS, BIOLOGICALS                    ",GERMANY,TONS,5851.974,271.75
+"DRUG FORMULATIONS, BIOLOGICALS                    ",ITALY,TONS,1472.813,59.01
+"DRUG FORMULATIONS, BIOLOGICALS                    ",JAPAN,TONS,552.517,99.74
+"DRUG FORMULATIONS, BIOLOGICALS                    ",SOUTH KOREA,TONS,494.197,24.2
+"DRUG FORMULATIONS, BIOLOGICALS                    ",RUSSIA,TONS,9090.651,416.39
+"DRUG FORMULATIONS, BIOLOGICALS                    ",UK,TONS,19296.957,523.88
+"DRUG FORMULATIONS, BIOLOGICALS                    ",USA,TONS,119760.537,6775.1
+AGRO CHEMICALS                                    ,BRAZIL,TONS,124774.828,1340.79
+AGRO CHEMICALS                                    ,CANADA,TONS,1336.79,12.09
+AGRO CHEMICALS                                    ,CHINA,TONS,14466.985,110.48
+AGRO CHEMICALS                                    ,FRANCE,TONS,10386.084,112.49
+AGRO CHEMICALS                                    ,GERMANY,TONS,6682.206,69.99
+AGRO CHEMICALS                                    ,ITALY,TONS,3359.546,40.91
+AGRO CHEMICALS                                    ,JAPAN,TONS,4664.416,176.83
+AGRO CHEMICALS                                    ,SOUTH KOREA,TONS,2516.506,47.57
+AGRO CHEMICALS                                    ,RUSSIA,TONS,5578.774,49.7
+AGRO CHEMICALS                                    ,UK,TONS,4963.883,62.81
+AGRO CHEMICALS                                    ,USA,TONS,101570.557,1456.17
+COSMETICS AND TOILETRIES                          ,BRAZIL,TONS,21690.686,43.78
+COSMETICS AND TOILETRIES                          ,CANADA,TONS,9774.585,22.22
+COSMETICS AND TOILETRIES                          ,CHINA,TONS,13947.381,38.85
+COSMETICS AND TOILETRIES                          ,FRANCE,TONS,2327.081,11.82
+COSMETICS AND TOILETRIES                          ,GERMANY,TONS,22217.071,47.92
+COSMETICS AND TOILETRIES                          ,ITALY,TONS,11557.521,24.04
+COSMETICS AND TOILETRIES                          ,JAPAN,TONS,11634.617,36.29
+COSMETICS AND TOILETRIES                          ,SOUTH KOREA,TONS,6964.443,21.31
+COSMETICS AND TOILETRIES                          ,RUSSIA,TONS,15874.761,39.06
+COSMETICS AND TOILETRIES                          ,UK,TONS,12595.056,42.29
+COSMETICS AND TOILETRIES                          ,USA,TONS,93280.282,268.84
+ESSENTIAL OILS                                    ,BRAZIL,TONS,39.279,1.75
+ESSENTIAL OILS                                    ,CANADA,TONS,89.865,2.17
+ESSENTIAL OILS                                    ,CHINA,TONS,233.995,6.03
+ESSENTIAL OILS                                    ,FRANCE,TONS,169.246,32.59
+ESSENTIAL OILS                                    ,GERMANY,TONS,130.694,4.81
+ESSENTIAL OILS                                    ,ITALY,TONS,155.345,2.01
+ESSENTIAL OILS                                    ,JAPAN,TONS,74.259,2.92
+ESSENTIAL OILS                                    ,SOUTH KOREA,TONS,81.826,2.09
+ESSENTIAL OILS                                    ,RUSSIA,TONS,10.435,0.26
+ESSENTIAL OILS                                    ,UK,TONS,142.676,6.9
+ESSENTIAL OILS                                    ,USA,TONS,1629.722,52.24
+INORGANIC CHEMICALS                               ,BRAZIL,TONS,32425.387,55.19
+INORGANIC CHEMICALS                               ,CANADA,TONS,4642.844,5.53
+INORGANIC CHEMICALS                               ,CHINA,TONS,25164.033,95.93
+INORGANIC CHEMICALS                               ,FRANCE,TONS,11042.54,17.95
+INORGANIC CHEMICALS                               ,GERMANY,TONS,20989.802,46.79
+INORGANIC CHEMICALS                               ,ITALY,TONS,49992.083,52.82
+INORGANIC CHEMICALS                               ,JAPAN,TONS,21532.37,46.07
+INORGANIC CHEMICALS                               ,SOUTH KOREA,TONS,28480.927,50.0
+INORGANIC CHEMICALS                               ,RUSSIA,TONS,27466.049,42.67
+INORGANIC CHEMICALS                               ,UK,TONS,17119.881,23.22
+INORGANIC CHEMICALS                               ,USA,TONS,129631.928,245.77
+ORGANIC CHEMICALS                                 ,BRAZIL,TONS,38919.878,270.0
+ORGANIC CHEMICALS                                 ,CANADA,TONS,4617.598,38.46
+ORGANIC CHEMICALS                                 ,CHINA,TONS,320128.746,691.69
+ORGANIC CHEMICALS                                 ,FRANCE,TONS,11387.613,136.35
+ORGANIC CHEMICALS                                 ,GERMANY,TONS,32717.405,336.9
+ORGANIC CHEMICALS                                 ,ITALY,TONS,68718.716,213.36
+ORGANIC CHEMICALS                                 ,JAPAN,TONS,22251.398,291.84
+ORGANIC CHEMICALS                                 ,SOUTH KOREA,TONS,91445.942,274.72
+ORGANIC CHEMICALS                                 ,RUSSIA,TONS,6578.72,52.93
+ORGANIC CHEMICALS                                 ,UK,TONS,9694.331,85.91
+ORGANIC CHEMICALS                                 ,USA,TONS,358628.341,1455.83
+OTHER MISCELLAENIOUS CHEMICALS                    ,BRAZIL,TONS,4163.344,42.46
+OTHER MISCELLAENIOUS CHEMICALS                    ,CANADA,TONS,2842.104,13.26
+OTHER MISCELLAENIOUS CHEMICALS                    ,CHINA,TONS,15849.223,85.14
+OTHER MISCELLAENIOUS CHEMICALS                    ,FRANCE,TONS,6427.532,26.58
+OTHER MISCELLAENIOUS CHEMICALS                    ,GERMANY,TONS,13480.028,65.54
+OTHER MISCELLAENIOUS CHEMICALS                    ,ITALY,TONS,8093.842,100.31
+OTHER MISCELLAENIOUS CHEMICALS                    ,JAPAN,TONS,15970.635,77.61
+OTHER MISCELLAENIOUS CHEMICALS                    ,SOUTH KOREA,TONS,16421.598,65.63
+OTHER MISCELLAENIOUS CHEMICALS                    ,RUSSIA,TONS,5124.864,21.84
+OTHER MISCELLAENIOUS CHEMICALS                    ,UK,TONS,15340.453,68.86
+OTHER MISCELLAENIOUS CHEMICALS                    ,USA,TONS,45313.345,281.65
+"PAINT, VARNISH AND ALLID PRODC                    ",BRAZIL,TONS,4184.958,16.22
+"PAINT, VARNISH AND ALLID PRODC                    ",CANADA,TONS,1300.236,4.87
+"PAINT, VARNISH AND ALLID PRODC                    ",CHINA,TONS,42101.612,28.52
+"PAINT, VARNISH AND ALLID PRODC                    ",FRANCE,TONS,501.539,2.42
+"PAINT, VARNISH AND ALLID PRODC                    ",GERMANY,TONS,12697.613,58.08
+"PAINT, VARNISH AND ALLID PRODC                    ",ITALY,TONS,2304.157,9.56
+"PAINT, VARNISH AND ALLID PRODC                    ",JAPAN,TONS,58185.425,47.21
+"PAINT, VARNISH AND ALLID PRODC                    ",SOUTH KOREA,TONS,13960.802,14.17
+"PAINT, VARNISH AND ALLID PRODC                    ",RUSSIA,TONS,7497.084,32.46
+"PAINT, VARNISH AND ALLID PRODC                    ",UK,TONS,632.742,2.4
+"PAINT, VARNISH AND ALLID PRODC                    ",USA,TONS,19179.08,67.66
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",BRAZIL,TONS,22277.0,69.26
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",CANADA,TONS,14144.0,61.89
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",CHINA,TONS,89851.0,224.95
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",FRANCE,TONS,9002.0,33.59
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",GERMANY,TONS,33713.0,166.06
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",ITALY,TONS,175169.0,505.38
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",JAPAN,TONS,114478.0,291.67
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",SOUTH KOREA,TONS,345805.0,925.48
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",RUSSIA,TONS,479.0,3.96
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",UK,TONS,22838.0,102.19
+"ALUMINIUM, PRODUCTS OF ALUMINM                    ",USA,TONS,244929.0,1102.75
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",BRAZIL,TONS,4917.337,35.76
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",CANADA,TONS,11279.421,75.23
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",CHINA,TONS,9736.173,108.0
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",FRANCE,TONS,4790.628,45.82
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",GERMANY,TONS,16480.358,120.57
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",ITALY,TONS,5765.546,57.58
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",JAPAN,TONS,1472.027,20.36
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",SOUTH KOREA,TONS,1817.285,20.5
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",RUSSIA,TONS,11491.795,64.71
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",UK,TONS,9811.197,81.02
+"ATM, INJCTNG MLDING MCHNRY ETC                    ",USA,TONS,77519.245,653.57
+IRON AND STEEL                                    ,BRAZIL,TONS,76697.0,139.82
+IRON AND STEEL                                    ,CANADA,TONS,124872.0,201.7
+IRON AND STEEL                                    ,CHINA,TONS,341483.0,431.59
+IRON AND STEEL                                    ,FRANCE,TONS,19296.0,51.15
+IRON AND STEEL                                    ,GERMANY,TONS,57287.0,200.28
+IRON AND STEEL                                    ,ITALY,TONS,1792399.0,1760.39
+IRON AND STEEL                                    ,JAPAN,TONS,203652.0,268.22
+IRON AND STEEL                                    ,SOUTH KOREA,TONS,178988.0,303.91
+IRON AND STEEL                                    ,RUSSIA,TONS,54199.0,159.06
+IRON AND STEEL                                    ,UK,TONS,185888.0,224.08
+IRON AND STEEL                                    ,USA,TONS,709826.0,908.98
+LEAD AND PRODUCTS MADE OF LED                     ,BRAZIL,TONS,208.0,0.51
+LEAD AND PRODUCTS MADE OF LED                     ,CANADA,TONS,0.0,0.0
+LEAD AND PRODUCTS MADE OF LED                     ,CHINA,TONS,0.0,0.0
+LEAD AND PRODUCTS MADE OF LED                     ,FRANCE,TONS,0.0,0.0
+LEAD AND PRODUCTS MADE OF LED                     ,GERMANY,TONS,0.0,0.02
+LEAD AND PRODUCTS MADE OF LED                     ,ITALY,TONS,213.0,0.48
+LEAD AND PRODUCTS MADE OF LED                     ,JAPAN,TONS,2724.0,6.63
+LEAD AND PRODUCTS MADE OF LED                     ,SOUTH KOREA,TONS,93391.0,220.83
+LEAD AND PRODUCTS MADE OF LED                     ,RUSSIA,TONS,25.0,0.18
+LEAD AND PRODUCTS MADE OF LED                     ,UK,TONS,3553.0,9.07
+LEAD AND PRODUCTS MADE OF LED                     ,USA,TONS,883.0,2.32
+MOTOR VEHICLE/CARS                                ,BRAZIL,TONS,32.0,6.06
+MOTOR VEHICLE/CARS                                ,CANADA,TONS,772.0,9.19
+MOTOR VEHICLE/CARS                                ,CHINA,TONS,55.0,9.7
+MOTOR VEHICLE/CARS                                ,FRANCE,TONS,2813.0,30.34
+MOTOR VEHICLE/CARS                                ,GERMANY,TONS,206.0,7.21
+MOTOR VEHICLE/CARS                                ,ITALY,TONS,1282.0,9.14
+MOTOR VEHICLE/CARS                                ,JAPAN,TONS,3115.0,86.44
+MOTOR VEHICLE/CARS                                ,SOUTH KOREA,TONS,163.0,2.03
+MOTOR VEHICLE/CARS                                ,RUSSIA,TONS,3.0,0.79
+MOTOR VEHICLE/CARS                                ,UK,TONS,124.0,5.91
+MOTOR VEHICLE/CARS                                ,USA,TONS,15092.0,196.29
+"NICKEL, PRODUCT MADE OF NICKEL                    ",BRAZIL,TONS,143.0,5.07
+"NICKEL, PRODUCT MADE OF NICKEL                    ",CANADA,TONS,42.0,0.26
+"NICKEL, PRODUCT MADE OF NICKEL                    ",CHINA,TONS,278.0,12.3
+"NICKEL, PRODUCT MADE OF NICKEL                    ",FRANCE,TONS,44.0,1.57
+"NICKEL, PRODUCT MADE OF NICKEL                    ",GERMANY,TONS,240.0,5.27
+"NICKEL, PRODUCT MADE OF NICKEL                    ",ITALY,TONS,62.0,2.61
+"NICKEL, PRODUCT MADE OF NICKEL                    ",JAPAN,TONS,85.0,1.62
+"NICKEL, PRODUCT MADE OF NICKEL                    ",SOUTH KOREA,TONS,204.0,5.48
+"NICKEL, PRODUCT MADE OF NICKEL                    ",RUSSIA,TONS,1.0,0.08
+"NICKEL, PRODUCT MADE OF NICKEL                    ",UK,TONS,974.0,17.12
+"NICKEL, PRODUCT MADE OF NICKEL                    ",USA,TONS,414.0,16.29
+OFFICE EQUIPMENTS                                 ,BRAZIL,TONS,183757.0,0.37
+OFFICE EQUIPMENTS                                 ,CANADA,TONS,3191.0,2.18
+OFFICE EQUIPMENTS                                 ,CHINA,TONS,2.0,0.02
+OFFICE EQUIPMENTS                                 ,FRANCE,TONS,157853.0,2.98
+OFFICE EQUIPMENTS                                 ,GERMANY,TONS,56058.0,2.13
+OFFICE EQUIPMENTS                                 ,ITALY,TONS,52809.0,1.87
+OFFICE EQUIPMENTS                                 ,JAPAN,TONS,399827.0,0.33
+OFFICE EQUIPMENTS                                 ,SOUTH KOREA,TONS,10365.0,0.05
+OFFICE EQUIPMENTS                                 ,RUSSIA,TONS,699534.0,1.8
+OFFICE EQUIPMENTS                                 ,UK,TONS,4847.0,4.49
+OFFICE EQUIPMENTS                                 ,USA,TONS,405714.0,70.2
+OTH NON FEROUS METAL AND PRODC                    ,BRAZIL,TONS,2664.01,17.21
+OTH NON FEROUS METAL AND PRODC                    ,CANADA,TONS,2091.789,11.34
+OTH NON FEROUS METAL AND PRODC                    ,CHINA,TONS,1160.273,9.68
+OTH NON FEROUS METAL AND PRODC                    ,FRANCE,TONS,1335.622,15.17
+OTH NON FEROUS METAL AND PRODC                    ,GERMANY,TONS,6281.72,45.17
+OTH NON FEROUS METAL AND PRODC                    ,ITALY,TONS,12991.463,11.43
+OTH NON FEROUS METAL AND PRODC                    ,JAPAN,TONS,1302.418,6.95
+OTH NON FEROUS METAL AND PRODC                    ,SOUTH KOREA,TONS,1934.042,16.24
+OTH NON FEROUS METAL AND PRODC                    ,RUSSIA,TONS,289.922,2.13
+OTH NON FEROUS METAL AND PRODC                    ,UK,TONS,14323.884,86.0
+OTH NON FEROUS METAL AND PRODC                    ,USA,TONS,27813.864,183.87
+PROJECT GOODS                                     ,BRAZIL,TONS,0.0,0.0
+PROJECT GOODS                                     ,CANADA,TONS,0.208,0.01
+PROJECT GOODS                                     ,CHINA,TONS,0.4,0.01
+PROJECT GOODS                                     ,FRANCE,TONS,0.389,0.04
+PROJECT GOODS                                     ,GERMANY,TONS,3.715,0.06
+PROJECT GOODS                                     ,ITALY,TONS,0.024,0.03
+PROJECT GOODS                                     ,JAPAN,TONS,0.108,0.0
+PROJECT GOODS                                     ,SOUTH KOREA,TONS,0.082,0.0
+PROJECT GOODS                                     ,RUSSIA,TONS,0.0,0.0
+PROJECT GOODS                                     ,UK,TONS,0.136,0.01
+PROJECT GOODS                                     ,USA,TONS,28.81,0.61
+"SHIP, BOAT AND FLOATING STRUCT                    ",BRAZIL,TONS,31.0,0.01
+"SHIP, BOAT AND FLOATING STRUCT                    ",CANADA,TONS,5.0,13.14
+"SHIP, BOAT AND FLOATING STRUCT                    ",CHINA,TONS,3.0,0.0
+"SHIP, BOAT AND FLOATING STRUCT                    ",FRANCE,TONS,347.0,0.02
+"SHIP, BOAT AND FLOATING STRUCT                    ",GERMANY,TONS,16.0,0.07
+"SHIP, BOAT AND FLOATING STRUCT                    ",ITALY,TONS,1.0,0.01
+"SHIP, BOAT AND FLOATING STRUCT                    ",JAPAN,TONS,0.0,0.0
+"SHIP, BOAT AND FLOATING STRUCT                    ",SOUTH KOREA,TONS,0.0,0.0
+"SHIP, BOAT AND FLOATING STRUCT                    ",UK,TONS,11.0,184.49
+"SHIP, BOAT AND FLOATING STRUCT                    ",USA,TONS,1458.0,60.31
+TIN AND PRODUCTS MADE OF TIN                      ,BRAZIL,TONS,0.0,0.0
+TIN AND PRODUCTS MADE OF TIN                      ,CANADA,TONS,1.0,0.02
+TIN AND PRODUCTS MADE OF TIN                      ,CHINA,TONS,8.0,0.21
+TIN AND PRODUCTS MADE OF TIN                      ,GERMANY,TONS,0.0,0.04
+TIN AND PRODUCTS MADE OF TIN                      ,JAPAN,TONS,3.0,0.1
+TIN AND PRODUCTS MADE OF TIN                      ,SOUTH KOREA,TONS,1.0,0.03
+TIN AND PRODUCTS MADE OF TIN                      ,UK,TONS,31.0,1.12
+TIN AND PRODUCTS MADE OF TIN                      ,USA,TONS,3.0,0.08
+TWO AND THREE WHEELERS                            ,BRAZIL,TONS,55813.0,53.35
+TWO AND THREE WHEELERS                            ,CANADA,TONS,2371.0,7.2
+TWO AND THREE WHEELERS                            ,CHINA,TONS,1225.0,2.24
+TWO AND THREE WHEELERS                            ,FRANCE,TONS,5125.0,14.6
+TWO AND THREE WHEELERS                            ,GERMANY,TONS,15659.0,35.14
+TWO AND THREE WHEELERS                            ,ITALY,TONS,25168.0,41.44
+TWO AND THREE WHEELERS                            ,JAPAN,TONS,33015.0,55.24
+TWO AND THREE WHEELERS                            ,SOUTH KOREA,TONS,4114.0,10.98
+TWO AND THREE WHEELERS                            ,RUSSIA,TONS,4767.0,6.44
+TWO AND THREE WHEELERS                            ,UK,TONS,17995.0,34.09
+TWO AND THREE WHEELERS                            ,USA,TONS,30168.0,79.77
+ZINC AND PRODUCTS MADE OF ZINC                    ,BRAZIL,TONS,360.0,1.36
+ZINC AND PRODUCTS MADE OF ZINC                    ,CANADA,TONS,1574.0,6.14
+ZINC AND PRODUCTS MADE OF ZINC                    ,CHINA,TONS,507.0,1.59
+ZINC AND PRODUCTS MADE OF ZINC                    ,FRANCE,TONS,110.0,0.41
+ZINC AND PRODUCTS MADE OF ZINC                    ,GERMANY,TONS,112.0,0.75
+ZINC AND PRODUCTS MADE OF ZINC                    ,ITALY,TONS,725.0,2.38
+ZINC AND PRODUCTS MADE OF ZINC                    ,JAPAN,TONS,1461.0,5.08
+ZINC AND PRODUCTS MADE OF ZINC                    ,SOUTH KOREA,TONS,17612.0,64.35
+ZINC AND PRODUCTS MADE OF ZINC                    ,RUSSIA,TONS,253.0,1.0
+ZINC AND PRODUCTS MADE OF ZINC                    ,UK,TONS,3665.0,12.77
+ZINC AND PRODUCTS MADE OF ZINC                    ,USA,TONS,3852.0,16.88
+ELECTRODES                                        ,BRAZIL,TONS,2146.968,4.67
+ELECTRODES                                        ,CANADA,TONS,49.048,0.13
+ELECTRODES                                        ,CHINA,TONS,57.662,0.19
+ELECTRODES                                        ,FRANCE,TONS,125.559,0.93
+ELECTRODES                                        ,GERMANY,TONS,79.93,0.72
+ELECTRODES                                        ,ITALY,TONS,51.444,0.1
+ELECTRODES                                        ,JAPAN,TONS,9.643,0.19
+ELECTRODES                                        ,SOUTH KOREA,TONS,82.287,0.15
+ELECTRODES                                        ,RUSSIA,TONS,3262.257,9.42
+ELECTRODES                                        ,UK,TONS,76.956,0.24
+ELECTRODES                                        ,USA,TONS,2239.04,6.0
+COTTON YARN                                       ,BRAZIL,TONS,5464.0,19.43
+COTTON YARN                                       ,CANADA,TONS,759.0,3.56
+COTTON YARN                                       ,CHINA,TONS,67859.0,208.69
+COTTON YARN                                       ,FRANCE,TONS,394.0,1.75
+COTTON YARN                                       ,GERMANY,TONS,8743.0,57.13
+COTTON YARN                                       ,ITALY,TONS,9475.0,76.04
+COTTON YARN                                       ,JAPAN,TONS,6481.0,52.38
+COTTON YARN                                       ,SOUTH KOREA,TONS,19911.0,82.06
+COTTON YARN                                       ,RUSSIA,TONS,80.0,0.48
+COTTON YARN                                       ,UK,TONS,293.0,1.33
+COTTON YARN                                       ,USA,TONS,4198.0,19.39
+MANMADE STAPLE FIBRE                              ,BRAZIL,TONS,7961.822,10.58
+MANMADE STAPLE FIBRE                              ,CANADA,TONS,334.754,0.44
+MANMADE STAPLE FIBRE                              ,CHINA,TONS,2830.395,7.57
+MANMADE STAPLE FIBRE                              ,FRANCE,TONS,3343.575,5.05
+MANMADE STAPLE FIBRE                              ,GERMANY,TONS,10410.043,15.0
+MANMADE STAPLE FIBRE                              ,ITALY,TONS,7446.577,10.08
+MANMADE STAPLE FIBRE                              ,JAPAN,TONS,546.546,0.93
+MANMADE STAPLE FIBRE                              ,SOUTH KOREA,TONS,598.504,1.54
+MANMADE STAPLE FIBRE                              ,RUSSIA,TONS,2709.619,5.74
+MANMADE STAPLE FIBRE                              ,UK,TONS,2782.687,3.54
+MANMADE STAPLE FIBRE                              ,USA,TONS,63255.811,93.79
+FLOOR CVRNG OF JUTE                               ,BRAZIL,TONS,55436.0,0.46
+FLOOR CVRNG OF JUTE                               ,CANADA,TONS,139305.0,1.26
+FLOOR CVRNG OF JUTE                               ,CHINA,TONS,137595.0,0.98
+FLOOR CVRNG OF JUTE                               ,FRANCE,TONS,544980.0,4.58
+FLOOR CVRNG OF JUTE                               ,GERMANY,TONS,663994.0,5.51
+FLOOR CVRNG OF JUTE                               ,ITALY,TONS,111895.0,0.94
+FLOOR CVRNG OF JUTE                               ,JAPAN,TONS,21617.0,0.2
+FLOOR CVRNG OF JUTE                               ,SOUTH KOREA,TONS,12976.0,0.14
+FLOOR CVRNG OF JUTE                               ,RUSSIA,TONS,27896.0,0.23
+FLOOR CVRNG OF JUTE                               ,UK,TONS,521380.0,4.53
+FLOOR CVRNG OF JUTE                               ,USA,TONS,4618779.0,42.15
+JUTE YARN                                         ,BRAZIL,TONS,78.0,0.11
+JUTE YARN                                         ,CANADA,TONS,171.0,0.25
+JUTE YARN                                         ,CHINA,TONS,0.0,0.0
+JUTE YARN                                         ,FRANCE,TONS,1.0,0.0
+JUTE YARN                                         ,GERMANY,TONS,167.0,0.48
+JUTE YARN                                         ,ITALY,TONS,35.0,0.07
+JUTE YARN                                         ,JAPAN,TONS,55.0,0.09
+JUTE YARN                                         ,SOUTH KOREA,TONS,24.0,0.03
+JUTE YARN                                         ,RUSSIA,TONS,0.0,0.0
+JUTE YARN                                         ,UK,TONS,119.0,0.36
+JUTE YARN                                         ,USA,TONS,27.0,0.12
+CARPET(EXCL. SILK) HANDMADE                       ,BRAZIL,TONS,1205015.0,8.36
+CARPET(EXCL. SILK) HANDMADE                       ,CANADA,TONS,1759620.0,19.58
+CARPET(EXCL. SILK) HANDMADE                       ,CHINA,TONS,850829.0,8.94
+CARPET(EXCL. SILK) HANDMADE                       ,FRANCE,TONS,2105023.0,23.84
+CARPET(EXCL. SILK) HANDMADE                       ,GERMANY,TONS,5732952.0,68.84
+CARPET(EXCL. SILK) HANDMADE                       ,ITALY,TONS,2182522.0,25.81
+CARPET(EXCL. SILK) HANDMADE                       ,JAPAN,TONS,822994.0,9.71
+CARPET(EXCL. SILK) HANDMADE                       ,SOUTH KOREA,TONS,202641.0,2.11
+CARPET(EXCL. SILK) HANDMADE                       ,RUSSIA,TONS,280818.0,4.03
+CARPET(EXCL. SILK) HANDMADE                       ,UK,TONS,3980541.0,50.76
+CARPET(EXCL. SILK) HANDMADE                       ,USA,TONS,51332554.0,795.22
+SILK CARPET                                       ,BRAZIL,TONS,4256.0,0.25
+SILK CARPET                                       ,CANADA,TONS,4749.0,0.97
+SILK CARPET                                       ,CHINA,TONS,1734.0,0.92
+SILK CARPET                                       ,FRANCE,TONS,2578.0,0.29
+SILK CARPET                                       ,GERMANY,TONS,14541.0,3.64
+SILK CARPET                                       ,ITALY,TONS,4846.0,0.89
+SILK CARPET                                       ,JAPAN,TONS,431.0,0.06
+SILK CARPET                                       ,SOUTH KOREA,TONS,86.0,0.03
+SILK CARPET                                       ,RUSSIA,TONS,1326.0,0.5
+SILK CARPET                                       ,UK,TONS,2408.0,0.79
+SILK CARPET                                       ,USA,TONS,136075.0,23.1
+PETROLEUM PRODUCTS                                ,BRAZIL,TONS,4289516.0,4480.99
+PETROLEUM PRODUCTS                                ,CANADA,TONS,1025.0,1.89
+PETROLEUM PRODUCTS                                ,CHINA,TONS,2508798.0,1909.57
+PETROLEUM PRODUCTS                                ,FRANCE,TONS,1222923.0,1291.41
+PETROLEUM PRODUCTS                                ,GERMANY,TONS,452.0,0.73
+PETROLEUM PRODUCTS                                ,ITALY,TONS,391723.0,403.86
+PETROLEUM PRODUCTS                                ,JAPAN,TONS,401539.0,296.35
+PETROLEUM PRODUCTS                                ,SOUTH KOREA,TONS,2763052.0,2007.05
+PETROLEUM PRODUCTS                                ,RUSSIA,TONS,9572.0,12.63
+PETROLEUM PRODUCTS                                ,UK,TONS,1000431.0,924.14
+PETROLEUM PRODUCTS                                ,USA,TONS,5716834.0,6037.3
+PACKAGING MATERIALS                               ,BRAZIL,TONS,1691.0,5.36
+PACKAGING MATERIALS                               ,CANADA,TONS,2643.0,9.57
+PACKAGING MATERIALS                               ,CHINA,TONS,3203.0,11.01
+PACKAGING MATERIALS                               ,FRANCE,TONS,5513.0,14.86
+PACKAGING MATERIALS                               ,GERMANY,TONS,8585.0,21.46
+PACKAGING MATERIALS                               ,ITALY,TONS,5207.0,11.22
+PACKAGING MATERIALS                               ,JAPAN,TONS,1529.0,6.12
+PACKAGING MATERIALS                               ,SOUTH KOREA,TONS,1038.0,5.75
+PACKAGING MATERIALS                               ,RUSSIA,TONS,935.0,10.8
+PACKAGING MATERIALS                               ,UK,TONS,25262.0,70.07
+PACKAGING MATERIALS                               ,USA,TONS,89859.0,242.55
+"PLASTC SHT, FILM, PLTS ETC                        ",BRAZIL,TONS,10145.506,26.62
+"PLASTC SHT, FILM, PLTS ETC                        ",CANADA,TONS,9923.215,30.09
+"PLASTC SHT, FILM, PLTS ETC                        ",CHINA,TONS,8576.778,35.03
+"PLASTC SHT, FILM, PLTS ETC                        ",FRANCE,TONS,6985.363,16.92
+"PLASTC SHT, FILM, PLTS ETC                        ",GERMANY,TONS,22721.954,55.64
+"PLASTC SHT, FILM, PLTS ETC                        ",ITALY,TONS,33106.816,74.62
+"PLASTC SHT, FILM, PLTS ETC                        ",JAPAN,TONS,1884.383,7.23
+"PLASTC SHT, FILM, PLTS ETC                        ",SOUTH KOREA,TONS,3534.445,13.32
+"PLASTC SHT, FILM, PLTS ETC                        ",RUSSIA,TONS,8211.253,20.08
+"PLASTC SHT, FILM, PLTS ETC                        ",UK,TONS,32049.725,93.14
+"PLASTC SHT, FILM, PLTS ETC                        ",USA,TONS,97359.988,362.33
+PLASTIC RAW MATERIALS                             ,BRAZIL,TONS,5979.0,21.27
+PLASTIC RAW MATERIALS                             ,CANADA,TONS,7653.0,15.16
+PLASTIC RAW MATERIALS                             ,CHINA,TONS,149915.0,206.94
+PLASTIC RAW MATERIALS                             ,FRANCE,TONS,3016.0,9.31
+PLASTIC RAW MATERIALS                             ,GERMANY,TONS,23196.0,125.73
+PLASTIC RAW MATERIALS                             ,ITALY,TONS,76023.0,142.17
+PLASTIC RAW MATERIALS                             ,JAPAN,TONS,30521.0,62.48
+PLASTIC RAW MATERIALS                             ,SOUTH KOREA,TONS,6499.0,24.67
+PLASTIC RAW MATERIALS                             ,RUSSIA,TONS,9287.0,32.02
+PLASTIC RAW MATERIALS                             ,UK,TONS,8407.0,28.07
+PLASTIC RAW MATERIALS                             ,USA,TONS,45133.0,219.57
+ALCOHOLIC BEVERAGES                               ,BRAZIL,TONS,100.0,0.0
+ALCOHOLIC BEVERAGES                               ,CANADA,TONS,123877.0,0.48
+ALCOHOLIC BEVERAGES                               ,CHINA,TONS,21647.0,0.19
+ALCOHOLIC BEVERAGES                               ,FRANCE,TONS,144696.0,1.74
+ALCOHOLIC BEVERAGES                               ,GERMANY,TONS,72365.0,0.17
+ALCOHOLIC BEVERAGES                               ,ITALY,TONS,160445.0,0.53
+ALCOHOLIC BEVERAGES                               ,JAPAN,TONS,569001.0,0.95
+ALCOHOLIC BEVERAGES                               ,SOUTH KOREA,TONS,56659.0,0.52
+ALCOHOLIC BEVERAGES                               ,RUSSIA,TONS,1103258.0,3.33
+ALCOHOLIC BEVERAGES                               ,UK,TONS,142190.0,0.81
+ALCOHOLIC BEVERAGES                               ,USA,TONS,2304946.0,7.09
+CASHEW NUT SHELL LIQUID                           ,BRAZIL,TONS,0.78,0.0
+CASHEW NUT SHELL LIQUID                           ,CHINA,TONS,5521.485,3.44
+CASHEW NUT SHELL LIQUID                           ,FRANCE,TONS,0.96,0.0
+CASHEW NUT SHELL LIQUID                           ,GERMANY,TONS,0.03,0.0
+CASHEW NUT SHELL LIQUID                           ,ITALY,TONS,274.464,0.28
+CASHEW NUT SHELL LIQUID                           ,JAPAN,TONS,56.3,0.06
+CASHEW NUT SHELL LIQUID                           ,SOUTH KOREA,TONS,4081.725,3.58
+CASHEW NUT SHELL LIQUID                           ,RUSSIA,TONS,504.32,0.52
+CASHEW NUT SHELL LIQUID                           ,UK,TONS,313.25,0.5
+CASHEW NUT SHELL LIQUID                           ,USA,TONS,115.801,0.1
+CASTOR OIL                                        ,BRAZIL,TONS,741.89,1.46
+CASTOR OIL                                        ,CANADA,TONS,434.986,1.06
+CASTOR OIL                                        ,CHINA,TONS,287090.473,527.76
+CASTOR OIL                                        ,FRANCE,TONS,64186.26,119.91
+CASTOR OIL                                        ,GERMANY,TONS,2597.65,5.58
+CASTOR OIL                                        ,ITALY,TONS,5824.98,11.35
+CASTOR OIL                                        ,JAPAN,TONS,23690.98,45.34
+CASTOR OIL                                        ,SOUTH KOREA,TONS,10595.325,21.1
+CASTOR OIL                                        ,RUSSIA,TONS,6660.619,13.66
+CASTOR OIL                                        ,UK,TONS,3933.586,7.82
+CASTOR OIL                                        ,USA,TONS,59572.112,115.64
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",BRAZIL,TONS,26.0,0.03
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",CANADA,TONS,5465.0,5.37
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",CHINA,TONS,885.0,0.21
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",FRANCE,TONS,3.0,0.02
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",GERMANY,TONS,790.0,1.21
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",ITALY,TONS,1745.0,1.82
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",JAPAN,TONS,5.0,0.03
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",SOUTH KOREA,TONS,0.0,0.0
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",RUSSIA,TONS,90.0,0.19
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",UK,TONS,21521.0,11.54
+"CEMENT, CLINKERS AND ASBESTOS CEMENT PRODUCTS     ",USA,TONS,413425.0,419.39
+COTTON RAW INCLD. WASTE                           ,BRAZIL,TONS,454.0,0.73
+COTTON RAW INCLD. WASTE                           ,CANADA,TONS,0.0,0.0
+COTTON RAW INCLD. WASTE                           ,CHINA,TONS,12022.0,24.78
+COTTON RAW INCLD. WASTE                           ,FRANCE,TONS,561.0,0.88
+COTTON RAW INCLD. WASTE                           ,GERMANY,TONS,9044.0,15.01
+COTTON RAW INCLD. WASTE                           ,ITALY,TONS,1016.0,2.81
+COTTON RAW INCLD. WASTE                           ,JAPAN,TONS,950.0,3.65
+COTTON RAW INCLD. WASTE                           ,SOUTH KOREA,TONS,168.0,0.29
+COTTON RAW INCLD. WASTE                           ,RUSSIA,TONS,0.0,0.0
+COTTON RAW INCLD. WASTE                           ,UK,TONS,56.0,0.13
+COTTON RAW INCLD. WASTE                           ,USA,TONS,625.0,1.28
+DYE INTERMEDIATES                                 ,BRAZIL,TONS,498.877,2.64
+DYE INTERMEDIATES                                 ,CANADA,TONS,117.629,0.41
+DYE INTERMEDIATES                                 ,CHINA,TONS,17449.166,58.97
+DYE INTERMEDIATES                                 ,FRANCE,TONS,762.395,2.44
+DYE INTERMEDIATES                                 ,GERMANY,TONS,378.083,1.52
+DYE INTERMEDIATES                                 ,ITALY,TONS,126.08,0.85
+DYE INTERMEDIATES                                 ,JAPAN,TONS,4335.751,25.34
+DYE INTERMEDIATES                                 ,SOUTH KOREA,TONS,614.283,2.22
+DYE INTERMEDIATES                                 ,RUSSIA,TONS,47.448,0.23
+DYE INTERMEDIATES                                 ,UK,TONS,148.731,0.67
+DYE INTERMEDIATES                                 ,USA,TONS,10701.808,32.47
+DYES                                              ,BRAZIL,TONS,18522.487,104.93
+DYES                                              ,CANADA,TONS,1385.464,12.13
+DYES                                              ,CHINA,TONS,34346.993,219.61
+DYES                                              ,FRANCE,TONS,1878.533,14.94
+DYES                                              ,GERMANY,TONS,7484.224,69.93
+DYES                                              ,ITALY,TONS,17519.874,112.83
+DYES                                              ,JAPAN,TONS,10987.5,89.99
+DYES                                              ,SOUTH KOREA,TONS,9820.017,61.14
+DYES                                              ,RUSSIA,TONS,4790.583,28.23
+DYES                                              ,UK,TONS,5190.214,36.6
+DYES                                              ,USA,TONS,24598.422,225.9
+FERTILEZERS CRUDE                                 ,BRAZIL,TONS,0.0,0.0
+FERTILEZERS CRUDE                                 ,CANADA,TONS,19.0,0.18
+FERTILEZERS CRUDE                                 ,CHINA,TONS,525.0,1.02
+FERTILEZERS CRUDE                                 ,FRANCE,TONS,0.0,0.0
+FERTILEZERS CRUDE                                 ,GERMANY,TONS,46.0,0.12
+FERTILEZERS CRUDE                                 ,ITALY,TONS,232.0,0.32
+FERTILEZERS CRUDE                                 ,JAPAN,TONS,630.0,0.29
+FERTILEZERS CRUDE                                 ,SOUTH KOREA,TONS,265.0,0.16
+FERTILEZERS CRUDE                                 ,RUSSIA,TONS,0.0,0.0
+FERTILEZERS CRUDE                                 ,UK,TONS,27.0,0.16
+FERTILEZERS CRUDE                                 ,USA,TONS,1168.0,5.94
+FERTILEZERS MANUFACTURED                          ,BRAZIL,TONS,32251.0,8.32
+FERTILEZERS MANUFACTURED                          ,CANADA,TONS,126.0,0.27
+FERTILEZERS MANUFACTURED                          ,CHINA,TONS,211.0,1.42
+FERTILEZERS MANUFACTURED                          ,FRANCE,TONS,0.0,0.0
+FERTILEZERS MANUFACTURED                          ,GERMANY,TONS,2.0,0.05
+FERTILEZERS MANUFACTURED                          ,ITALY,TONS,0.0,0.01
+FERTILEZERS MANUFACTURED                          ,JAPAN,TONS,66.0,0.15
+FERTILEZERS MANUFACTURED                          ,SOUTH KOREA,TONS,60.0,0.03
+FERTILEZERS MANUFACTURED                          ,RUSSIA,TONS,0.0,0.0
+FERTILEZERS MANUFACTURED                          ,UK,TONS,24.0,0.15
+FERTILEZERS MANUFACTURED                          ,USA,TONS,308.0,1.7
+FLORICLTR PRODUCTS                                ,BRAZIL,TONS,0.226,0.02
+FLORICLTR PRODUCTS                                ,CANADA,TONS,696.505,3.6
+FLORICLTR PRODUCTS                                ,CHINA,TONS,333.111,1.25
+FLORICLTR PRODUCTS                                ,FRANCE,TONS,246.825,2.16
+FLORICLTR PRODUCTS                                ,GERMANY,TONS,710.171,3.91
+FLORICLTR PRODUCTS                                ,ITALY,TONS,207.566,2.38
+FLORICLTR PRODUCTS                                ,JAPAN,TONS,182.266,1.92
+FLORICLTR PRODUCTS                                ,SOUTH KOREA,TONS,4.147,0.05
+FLORICLTR PRODUCTS                                ,RUSSIA,TONS,1.29,0.02
+FLORICLTR PRODUCTS                                ,UK,TONS,635.337,4.37
+FLORICLTR PRODUCTS                                ,USA,TONS,2631.817,22.7
+FRUITS / VEGETABLE SEEDS                          ,BRAZIL,TONS,3.567,0.1
+FRUITS / VEGETABLE SEEDS                          ,CANADA,TONS,1.597,0.05
+FRUITS / VEGETABLE SEEDS                          ,CHINA,TONS,84.764,0.9
+FRUITS / VEGETABLE SEEDS                          ,FRANCE,TONS,66.288,3.3
+FRUITS / VEGETABLE SEEDS                          ,GERMANY,TONS,52.422,0.76
+FRUITS / VEGETABLE SEEDS                          ,ITALY,TONS,106.679,2.03
+FRUITS / VEGETABLE SEEDS                          ,JAPAN,TONS,92.433,2.73
+FRUITS / VEGETABLE SEEDS                          ,SOUTH KOREA,TONS,722.682,3.96
+FRUITS / VEGETABLE SEEDS                          ,RUSSIA,TONS,6.47,0.44
+FRUITS / VEGETABLE SEEDS                          ,UK,TONS,2.445,0.73
+FRUITS / VEGETABLE SEEDS                          ,USA,TONS,665.655,22.45
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",BRAZIL,TONS,28.38,0.2
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",CANADA,TONS,3.683,0.1
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",CHINA,TONS,42.3,0.18
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",FRANCE,TONS,10.563,0.08
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",GERMANY,TONS,4188.6,9.13
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",ITALY,TONS,55.011,0.73
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",JAPAN,TONS,46.878,0.33
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",SOUTH KOREA,TONS,14.674,0.13
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",RUSSIA,TONS,24.925,0.15
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",UK,TONS,204.814,0.69
+"GRAPHITE, EXPLOSIVES AND ACCESSORIES              ",USA,TONS,2005.782,9.71
+GUERGAM MEAL                                      ,BRAZIL,TONS,4240.0,8.62
+GUERGAM MEAL                                      ,CANADA,TONS,9843.0,19.27
+GUERGAM MEAL                                      ,CHINA,TONS,18911.0,37.32
+GUERGAM MEAL                                      ,FRANCE,TONS,3739.0,8.02
+GUERGAM MEAL                                      ,GERMANY,TONS,51974.0,73.83
+GUERGAM MEAL                                      ,ITALY,TONS,8963.0,13.23
+GUERGAM MEAL                                      ,JAPAN,TONS,2536.0,7.07
+GUERGAM MEAL                                      ,SOUTH KOREA,TONS,2673.0,6.57
+GUERGAM MEAL                                      ,RUSSIA,TONS,38884.0,72.26
+GUERGAM MEAL                                      ,UK,TONS,12979.0,15.9
+GUERGAM MEAL                                      ,USA,TONS,73286.0,149.32
+HUMAN HAIR AND PRODUCTS THEREOF                   ,BRAZIL,TONS,0.505,0.14
+HUMAN HAIR AND PRODUCTS THEREOF                   ,CANADA,TONS,0.815,0.18
+HUMAN HAIR AND PRODUCTS THEREOF                   ,CHINA,TONS,4045.565,403.81
+HUMAN HAIR AND PRODUCTS THEREOF                   ,FRANCE,TONS,1.261,0.77
+HUMAN HAIR AND PRODUCTS THEREOF                   ,GERMANY,TONS,1.905,0.85
+HUMAN HAIR AND PRODUCTS THEREOF                   ,ITALY,TONS,6.08,2.23
+HUMAN HAIR AND PRODUCTS THEREOF                   ,JAPAN,TONS,0.003,0.0
+HUMAN HAIR AND PRODUCTS THEREOF                   ,SOUTH KOREA,TONS,0.757,0.21
+HUMAN HAIR AND PRODUCTS THEREOF                   ,RUSSIA,TONS,0.932,0.39
+HUMAN HAIR AND PRODUCTS THEREOF                   ,UK,TONS,1.01,0.96
+HUMAN HAIR AND PRODUCTS THEREOF                   ,USA,TONS,27.71,20.18
+"JUTE, RAW                                         ",BRAZIL,TONS,0.0,0.0
+"JUTE, RAW                                         ",CANADA,TONS,5.0,0.01
+"JUTE, RAW                                         ",FRANCE,TONS,0.0,0.0
+"JUTE, RAW                                         ",GERMANY,TONS,0.0,0.0
+"JUTE, RAW                                         ",SOUTH KOREA,TONS,0.0,0.0
+"JUTE, RAW                                         ",UK,TONS,0.0,0.0
+"JUTE, RAW                                         ",USA,TONS,4.0,0.05
+MOLLASES                                          ,CANADA,TONS,86.0,0.1
+MOLLASES                                          ,FRANCE,TONS,0.0,0.0
+MOLLASES                                          ,GERMANY,TONS,1.0,0.0
+MOLLASES                                          ,ITALY,TONS,101000.0,15.82
+MOLLASES                                          ,JAPAN,TONS,0.0,0.0
+MOLLASES                                          ,SOUTH KOREA,TONS,110440.0,16.8
+MOLLASES                                          ,RUSSIA,TONS,0.0,0.0
+MOLLASES                                          ,UK,TONS,79757.0,12.11
+MOLLASES                                          ,USA,TONS,12055.0,1.96
+NATURAL RUBBER                                    ,BRAZIL,TONS,0.0,0.0
+NATURAL RUBBER                                    ,CANADA,TONS,0.0,0.0
+NATURAL RUBBER                                    ,CHINA,TONS,202.0,0.34
+NATURAL RUBBER                                    ,FRANCE,TONS,0.0,0.0
+NATURAL RUBBER                                    ,GERMANY,TONS,0.0,0.0
+NATURAL RUBBER                                    ,ITALY,TONS,0.0,0.0
+NATURAL RUBBER                                    ,JAPAN,TONS,0.0,0.0
+NATURAL RUBBER                                    ,SOUTH KOREA,TONS,0.0,0.0
+NATURAL RUBBER                                    ,RUSSIA,TONS,0.0,0.0
+NATURAL RUBBER                                    ,UK,TONS,0.0,0.0
+NATURAL RUBBER                                    ,USA,TONS,50.0,0.14
+NEWSPRINT                                         ,CANADA,TONS,0.0,0.0
+NEWSPRINT                                         ,CHINA,TONS,0.0,0.0
+NEWSPRINT                                         ,GERMANY,TONS,0.0,0.0
+NEWSPRINT                                         ,ITALY,TONS,214.0,0.15
+NEWSPRINT                                         ,UK,TONS,28.0,0.02
+NEWSPRINT                                         ,USA,TONS,0.0,0.0
+PULP AND WASTE PAPER                              ,CANADA,TONS,0.057,0.0
+PULP AND WASTE PAPER                              ,CHINA,TONS,3652.079,1.17
+PULP AND WASTE PAPER                              ,GERMANY,TONS,1611.002,0.98
+PULP AND WASTE PAPER                              ,ITALY,TONS,0.5,0.0
+PULP AND WASTE PAPER                              ,JAPAN,TONS,0.105,0.0
+PULP AND WASTE PAPER                              ,SOUTH KOREA,TONS,80.65,0.01
+PULP AND WASTE PAPER                              ,RUSSIA,TONS,2.078,0.01
+PULP AND WASTE PAPER                              ,UK,TONS,0.2,0.0
+PULP AND WASTE PAPER                              ,USA,TONS,20.0,0.02
+PULSES                                            ,BRAZIL,TONS,1.0,0.0
+PULSES                                            ,CANADA,TONS,11671.0,15.16
+PULSES                                            ,CHINA,TONS,165204.0,114.16
+PULSES                                            ,FRANCE,TONS,508.0,0.65
+PULSES                                            ,GERMANY,TONS,829.0,1.52
+PULSES                                            ,ITALY,TONS,618.0,0.78
+PULSES                                            ,JAPAN,TONS,1016.0,1.42
+PULSES                                            ,SOUTH KOREA,TONS,115.0,0.16
+PULSES                                            ,RUSSIA,TONS,720.0,1.07
+PULSES                                            ,UK,TONS,9916.0,10.49
+PULSES                                            ,USA,TONS,32859.0,52.06
+RAW HIDES AND SKINS                               ,CANADA,TONS,0.052,0.0
+RAW HIDES AND SKINS                               ,GERMANY,TONS,42.588,0.1
+RAW HIDES AND SKINS                               ,ITALY,TONS,0.179,0.01
+RAW HIDES AND SKINS                               ,JAPAN,TONS,0.0,0.0
+RAW HIDES AND SKINS                               ,UK,TONS,0.064,0.0
+RAW HIDES AND SKINS                               ,USA,TONS,7.145,0.03
+SADDLERY AND HARNESS                              ,BRAZIL,TONS,20.942,0.21
+SADDLERY AND HARNESS                              ,CANADA,TONS,330.846,4.6
+SADDLERY AND HARNESS                              ,CHINA,TONS,27.379,0.55
+SADDLERY AND HARNESS                              ,FRANCE,TONS,838.392,11.08
+SADDLERY AND HARNESS                              ,GERMANY,TONS,3069.604,36.62
+SADDLERY AND HARNESS                              ,ITALY,TONS,415.308,6.73
+SADDLERY AND HARNESS                              ,JAPAN,TONS,9.851,0.23
+SADDLERY AND HARNESS                              ,SOUTH KOREA,TONS,6.784,0.11
+SADDLERY AND HARNESS                              ,RUSSIA,TONS,1.595,0.05
+SADDLERY AND HARNESS                              ,UK,TONS,2049.804,27.41
+SADDLERY AND HARNESS                              ,USA,TONS,5130.143,59.63
+SHELLAC                                           ,BRAZIL,TONS,4.383,0.11
+SHELLAC                                           ,CANADA,TONS,123.32,1.59
+SHELLAC                                           ,CHINA,TONS,126.741,7.49
+SHELLAC                                           ,FRANCE,TONS,132.311,4.89
+SHELLAC                                           ,GERMANY,TONS,624.013,8.99
+SHELLAC                                           ,ITALY,TONS,92.132,1.28
+SHELLAC                                           ,JAPAN,TONS,94.019,2.06
+SHELLAC                                           ,SOUTH KOREA,TONS,40.341,3.06
+SHELLAC                                           ,RUSSIA,TONS,56.045,0.59
+SHELLAC                                           ,UK,TONS,121.515,1.82
+SHELLAC                                           ,USA,TONS,1397.289,35.07
+SILK WASTE                                        ,CANADA,TONS,0.007,0.0
+SILK WASTE                                        ,CHINA,TONS,2129.107,19.95
+SILK WASTE                                        ,GERMANY,TONS,2.825,0.06
+SILK WASTE                                        ,ITALY,TONS,51.384,2.0
+SILK WASTE                                        ,JAPAN,TONS,0.998,0.03
+SILK WASTE                                        ,UK,TONS,5.754,0.14
+SILK WASTE                                        ,USA,TONS,0.112,0.01
+"SILK,RAW                                          ",CANADA,TONS,0.0,0.0
+"SILK,RAW                                          ",CHINA,TONS,0.0,0.0
+"SILK,RAW                                          ",FRANCE,TONS,0.0,0.0
+"SILK,RAW                                          ",ITALY,TONS,0.1,0.01
+"SILK,RAW                                          ",JAPAN,TONS,0.0,0.0
+"SILK,RAW                                          ",UK,TONS,0.0,0.0
+"SILK,RAW                                          ",USA,TONS,0.0,0.0
+SUGAR                                             ,BRAZIL,TONS,2.0,0.02
+SUGAR                                             ,CANADA,TONS,5718.0,5.12
+SUGAR                                             ,CHINA,TONS,336511.0,160.6
+SUGAR                                             ,FRANCE,TONS,395.0,0.3
+SUGAR                                             ,GERMANY,TONS,247.0,0.6
+SUGAR                                             ,ITALY,TONS,1160.0,1.23
+SUGAR                                             ,JAPAN,TONS,16.0,0.02
+SUGAR                                             ,SOUTH KOREA,TONS,1351.0,0.73
+SUGAR                                             ,RUSSIA,TONS,634.0,0.59
+SUGAR                                             ,UK,TONS,1656.0,2.05
+SUGAR                                             ,USA,TONS,16624.0,16.16
+VEGETABLE OILS                                    ,BRAZIL,TONS,128.0,0.33
+VEGETABLE OILS                                    ,CANADA,TONS,1161.0,3.66
+VEGETABLE OILS                                    ,CHINA,TONS,122592.0,236.97
+VEGETABLE OILS                                    ,FRANCE,TONS,290.0,0.99
+VEGETABLE OILS                                    ,GERMANY,TONS,1208.0,3.65
+VEGETABLE OILS                                    ,ITALY,TONS,1155.0,4.51
+VEGETABLE OILS                                    ,JAPAN,TONS,2475.0,8.52
+VEGETABLE OILS                                    ,SOUTH KOREA,TONS,345.0,0.63
+VEGETABLE OILS                                    ,RUSSIA,TONS,2395.0,9.84
+VEGETABLE OILS                                    ,UK,TONS,1092.0,3.59
+VEGETABLE OILS                                    ,USA,TONS,5636.0,18.08
+WHEAT                                             ,BRAZIL,TONS,0.0,0.0
+WHEAT                                             ,CANADA,TONS,1.0,0.0
+WHEAT                                             ,CHINA,TONS,0.0,0.0
+WHEAT                                             ,FRANCE,TONS,0.0,0.0
+WHEAT                                             ,GERMANY,TONS,0.0,0.0
+WHEAT                                             ,JAPAN,TONS,6.0,0.0
+WHEAT                                             ,SOUTH KOREA,TONS,504810.0,155.2
+WHEAT                                             ,UK,TONS,23.0,0.01
+WHEAT                                             ,USA,TONS,14.0,0.01
+"WOOL, RAW                                         ",CHINA,TONS,23.304,0.01
+"WOOL, RAW                                         ",FRANCE,TONS,0.0,0.0
+"WOOL, RAW                                         ",GERMANY,TONS,0.0,0.0
+"WOOL, RAW                                         ",ITALY,TONS,119.765,0.32
+"WOOL, RAW                                         ",USA,TONS,0.0,0.0
